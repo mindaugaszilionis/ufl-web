@@ -1,7 +1,6 @@
 baseURL = "https://ufl.lt/"
 locale = "lt-LT"
 title = "United Fantasy League"
-theme = ""
 
 [params]
   description = "Lietuvių bendruomenė, aktyviai žaidžianti ESPN NBA Fantasy krepšinio lygą."
