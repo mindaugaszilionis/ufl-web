@@ -1,8 +1,10 @@
 {{ define "main" }}
 {{ $d := hugo.Data.standings_latest }}
 <section class="hero">
-  <h1>{{ .Title }}</h1>
-  <p class="standings-meta">Bendras sezono taškų skaičius (fpts), paskutinė atnaujinta diena: {{ $d.asOf }}. Atsisiųsti visą istoriją: <a href="{{ "data/standings.csv" | relURL }}">standings.csv</a></p>
+  <div class="wrap-inner">
+    <h1>{{ .Title }}</h1>
+    <p class="standings-meta">Bendras sezono taškų skaičius (fpts), paskutinė atnaujinta diena: {{ $d.asOf }}. Atsisiųsti visą istoriją: <a href="{{ "data/standings.csv" | relURL }}" style="color:var(--brand);">standings.csv</a></p>
+  </div>
 </section>
 <table class="standings">
   <thead>

@@ -1,7 +1,9 @@
 {{ define "main" }}
 <section class="hero">
-  <h1>{{ .Title }}</h1>
-  {{ if .Content }}<div>{{ .Content }}</div>{{ end }}
+  <div class="wrap-inner">
+    <h1>{{ .Title }}</h1>
+    {{ if .Content }}<div>{{ .Content }}</div>{{ end }}
+  </div>
 </section>
 <div class="card-grid">
   {{ range .Pages.ByDate.Reverse }}

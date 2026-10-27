@@ -1,10 +1,13 @@
 {{ define "main" }}
 <section class="hero">
-  <h1>{{ .Site.Title }}</h1>
-  <p>{{ .Site.Params.description }}</p>
+  <div class="wrap-inner">
+    <span class="eyebrow">Sezonas 2026-27</span>
+    <h1>{{ .Site.Title }}</h1>
+    <p>{{ .Site.Params.description }}</p>
+  </div>
 </section>
 
-<h2 style="font-size:1.1rem;color:var(--text-secondary);margin-bottom:1rem;">Naujausios naujienos</h2>
+<h2 class="section-title">Naujausios naujienos</h2>
 <div class="card-grid">
   {{ range first 6 (where .Site.RegularPages "Type" "posts") }}
   <div class="card">
