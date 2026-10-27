@@ -1,7 +1,7 @@
 ---
 title: "1-oji savaitės apžvalga: kas jau dega, kas dar snaudžia"
 date: 2026-10-27
-draft: true
+draft: false
 summary: "Pirma savaitė baigta – kas jau skraido, kas jau dega gėdoje. Pilna apžvalga su roast'ais, traumom, GM judesiais ir prognozėmis."
 ---
 
