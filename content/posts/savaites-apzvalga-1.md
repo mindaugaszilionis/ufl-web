@@ -7,10 +7,9 @@ summary: "Pirma savaitė baigta – kas jau skraido, kas jau dega gėdoje, ir ka
 
 Sezonas prasidėjo, draftas seniai pamirštas – bet draftas, po velnių, neturi
 atminties problemų. Jis atsimena KIEKVIENĄ jūsų sprendimą ir dabar tyliai
-juokiasi iš kai kurių GM veidų. Pirma savaitė (10-20 → 10-26) baigta, taškai
-suskaičiuoti, ir čia nebus jokio glostymo – jei draftinot šūdą, taip ir
-parašysim. Sėskit patogiau, pasiimkit alų, ir pažiūrėkim, kas jau dabar
-verkia į pagalvę.
+juokiasi iš kai kurių GM veidų. Čia nebus jokio glostymo – jei draftinot
+šūdą, taip ir parašysim, su pavardėmis ir skaičiais. Sėskit patogiau,
+pasiimkit alų, ir pažiūrėkim, kas jau dabar verkia į pagalvę.
 
 ## Savaitės 1 rezultatai
 
@@ -37,199 +36,193 @@ verkia į pagalvę.
 ## Komanda po komandos
 
 **1. Mickunu Stumykla — 1144.25.** Kurva, 1144 taškai per savaitę – kitiems
-tiek nesusirenka per dvi. Bet čia prasideda ir pats skaniausias šios savaitės
-anekdotas: jūsų 3-iu pick'u rinktas Victor Wembanyama (132.0 taškų, trijų
-metrų prancūzas, kuriam mokat kaip pirmam rato superžvaigždei) pralaimėjo
-savo paties 5-o rato vergui Ty Jerome'ui (173.75). Taip, tas vaikinas, kurį
-draftinot "kažkam užpildyt sąrašą", dabar neša jus ant pečių, kol jūsų
-flagmanas kosėja tarp day-to-day sąrašų. Joel Embiid ir Ausar Thompson abu
-"day-to-day" (koks siurprizas, Embiid vėl be kelio), Yves Missi visai "OUT",
-o GG Jackson baigė savaitę SU MINUSU (-0.5) – kaip, po galais, žmogus apskritai
-sugeba pasiekti minusinį fantasy balą, ar jis žaidžia prieš savo komandą?
-Bet nesvarbu, kai turi du variklius, gali vežtis vieną lavoną prikabinęs
-prie priekabos. **Antra savaitė**: jei Embiid grįš sveikas, tai jau nebe
-fantasy liga – tai egzekucija, ir likę 16 GM gali eiti verkti į tualetą iš
-anksto.
+tiek nesusirenka per dvi. Bet pažiūrėkim po vieną, nes čia yra apie ką
+pasikalbėti: Wembanyama (3-ias pick, 132.0) – solidu, bet ne tai, dėl ko
+mokėjot auksu už trečią numerį, o Evan Mobley (2 ratas, 122.0) ir Jaylen
+Brown (3 ratas, 123.0) abu tyliai, be jokio triukšmo, atidirbo savo pinigus
+iki paskutinio cento. O štai ir komedija – Joel Embiid (4 ratas, 125.75,
+"day-to-day", koks siurprizas) pralenkė savo paties 3-io pick'o Wembą, būdamas
+pusiau traumuotas. Ir visą tą laiką jūsų TIKRAS herojus buvo Ty Jerome,
+penktaratis vergas, su 173.75 – geriau nei visi minėti kartu paėmus. GG
+Jackson baigė savaitę SU MINUSU (-0.5), kaip, po galais, žmogus apskritai
+sugeba pasiekti neigiamą balą, žaisdamas profesionalų krepšinį? Yves Missi
+"OUT". **Antra savaitė**: jei Embiid grįš pilnai sveikas, tai jau nebe
+fantasy liga, čia egzekucija, ir likę 16 GM gali eiti verkti iš anksto.
 
-**2. Panevezio 76ers — 971.00.** Trae Young (155.5, 15-as pick) atidirbo
-savo algą kaip reikiant, šito nepaneigsi. Bet tikrasis šeimos maitintojas
-buvo Cameron Boozer, 4-o rato naujokas, kurį dauguma jūsų net nebūtumėt
-atpažinę gatvėje, o jis suvarė 127.0 – beveik tiek pat, kiek jūsų žvaigždė.
-10-22 diena (7.5 taškai iš Trae, rimtai, broli?) parodė kraupią tiesą: be
-Young'o jūs esat tuščia kartoninė dėžė su UFL logotipu. Jalen Duren "OUT" –
-centro pozicija dabar kaip juodoji skylė, viskas krenta ir nieko negrįžta.
-**Antra savaitė**: 20 žaidimų tarp starterių, neblogas volume, bet jei Duren
-neatsigaus, po galais, jūsų dugnas bus matomas iš kosmoso.
+**2. Panevezio 76ers — 971.00.** Trae Young (15-as pick, 155.5) – lygiai tiek,
+kiek mokėjot, be jokių klausimų. Bet jūsų 2-o rato Jalen Duren (61.0, dar ir
+"OUT") yra grynas pinigų deginimas – antras ratas, o grąža kaip iš
+paskutinio. Tyler Herro (3 ratas, 145.75) išgelbėjo garbę – beveik prilygo
+pačiam Trae, būdamas trečiu pick'u. O Cameron Boozer, 4-o rato naujokas, apie
+kurį niekas nieko nežinojo, suvarė 127.0 – tai va kaip atrodo scouting, kurio
+jūs patys nesitikėjot iš savęs. 10-22 diena (7.5 taškai iš Trae) parodė,
+kad be jo ir Herro jūs tiesiog tuščia dėžė. **Antra savaitė**: 20 žaidimų,
+bet jei Duren neatsistatys, centro pozicija bus juodoji skylė visą sezoną.
 
-**3. Miami Olimpas — 957.50.** Tyrese Haliburton (180.5, 17-as pick) –
-savaitės MVP be jokios diskusijos, grynas plėšikavimas prieš draftą. Jaime
-Jaquez Jr., 8-o rato pamirštas vaikinukas, netikėtai iššovė su 106.0 – kas,
-po perkūnais, čia per burtai, ar jūs užsiauginot talismaną garaže? Luke
-Kornet baigė savaitę su 0.25 taškų – žmogau, tu egzistuoji ar tave kas
-nupiešė ant popieriaus? Chet Holmgren ir Naji Marshall abu "day-to-day" –
-sekit atidžiai, nes jūsų komanda viena koja jau ant Haliburton pečių, o kita
-– ant popieriaus plytos vardu Kornet. **Antra savaitė**: abu jūsų žvaigždžių
-kandidatai su back-to-back – jei bent vienas pargrius, tai jau nebe TOP3,
-o laisvas kritimas.
+**3. Miami Olimpas — 957.50.** Haliburton (17-as pick, 180.5) – savaitės MVP
+be diskusijų. Bet tiesiai po jo, 18-u pick'u, sėdi Josh Giddey, kuris
+suvarė vos 65.0 – rinktas minutę po Haliburton, o nuveikė tris kartus mažiau,
+gėda. Chet Holmgren (3 ratas, 107.5, "day-to-day") – neblogai, kai sveikas,
+bet kada jis paskutinį kartą buvo sveikas ilgiau nei savaitę? Walker Kessler
+(4 ratas, 117.75) buvo jūsų tyli žvaigždė – daugiau nei pats Giddey, rinktas
+visu ratu vėliau. Luke Kornet su 0.25 taškų – žmogau, tu egzistuoji ar tave
+kas nupiešė ant popieriaus? **Antra savaitė**: Haliburton ir Jaquez abu su
+back-to-back – jei ištvers, savaitė bus gera, jei ne, velniop viską.
 
-**4. Coleslaw Salads — 954.50.** Shai Gilgeous-Alexander (169.75, 2-as
-overall pick) – tiksliai tiek, kiek sumokėjot, gal net daugiau, respect.
-Kyshawn George, 8-o rato pasirinkimas, pridėjo netikėtus 92.0 – gražus
-bonusas, kurio niekas nesitikėjo, net jūs patys. Bet, po velnių, Marvin
-Bagley III (-0.25) ir Dean Wade (lygiai 0.0) – jūs ar išvis buvot aikštėje tą
-savaitę, ar tik atsiuntėt dvasias atstovauti? Ivica Zubac "day-to-day",
-Dereck Lively II "OUT" – gilumoj po SGA tuštuma, kaip ir jūsų GM strategijoj.
-**Antra savaitė**: tik 18 žaidimų tarp starterių – mažiausiai visoj lygoj,
-taigi ruoškitės sėdėt ir žiūrėt, kaip kiti renka taškus, o jūs valgot
-coleslaw'ą iš nuobodulio.
+**4. Coleslaw Salads — 954.50.** SGA (2-as overall, 169.75) – tiksliai tiek,
+kiek sumokėjot, gal net daugiau, respect. Bet po to prasideda nuosmukis:
+Devin Booker (2 ratas, 102.5) – padorus, nieko daugiau; Deni Avdija (3
+ratas, 79.5) – nusivylimas; Trey Murphy III (4 ratas, 63.25) – tiesiog
+neegzistavo tą savaitę. Marvin Bagley III (-0.25) ir Dean Wade (0.0) – jūs
+ar išvis buvot aikštėje, ar atsiuntėt dvasias atstovauti komandai? SGA
+vienas tempia visą šitą cirką ant savo pečių, ir jei jis nuvargs nešdamas
+keturis balastus, niekas jūsų negelbės. **Antra savaitė**: tik 18 žaidimų –
+mažiausiai visoj lygoj, ruoškitės nuobodžiai savaitei.
 
-**5. Minnesota Timberwolves — 947.00.** Jalen Johnson (177.0, 7-as pick) –
-tiksliai pataikėt, čiūrė garbė jums. Ir GM nemiegojo waiver'e: numetė Mo
-Bambą (kuris jau seniai buvo balastas), pasiėmė Shaedon Sharpe'ą, dar
-prisidėjo Mike Conley gilumai, o bonusu iš grynos FA iškasė Jaylen Wells'ą
-(76.75) – tai va kaip atrodo žmogus, kuris realiai dirba, o ne tingi kaip
-kiti 12 šitos lygos snaudalių. DeMar DeRozan baigė savaitę su 1.0 (VIENU,
-po galais) tašku – gėda, bet kai kiti dirba už tave, gali sau leisti vieną
-mirusį svorį rostery. **Antra savaitė**: keturi starteriai su back-to-back
-(tarp jų ir pats Johnson) – nuovargio rizika reali, bet 21 žaidimas iš viso
-reiškia, kad net pavargę surinksit daugiau nei pusė lygos sveiki.
+**5. Minnesota Timberwolves — 947.00.** Jalen Johnson (7-as pick, 177.0) –
+tiksliai pataikėt. Amen Thompson (2 ratas, 146.75) – beveik prilygo jūsų 1
+pick'ui, rinktas penkiolika vietų vėliau, grynas pelnas. Nickeil
+Alexander-Walker (3 ratas, 120.0) ir Dyson Daniels (4 ratas, 126.0) abu
+tyliai, be pagyrų, atidirbo – šitas rosteris paprasčiausiai neturi silpnų
+vietų viršuje. GM dar ir nemiegojo waiver'e: numetė balastą Mo Bambą,
+pasiėmė Shaedon Sharpe'ą, Mike Conley'į, ir iš grynos FA iškasė Jaylen
+Wells'ą (76.75) – tai va kaip atrodo žmogus, kuris realiai dirba. DeMar
+DeRozan baigė su 1.0 tašku – gėda, bet kai visi kiti veža, gali leisti sau
+vieną lavoną. **Antra savaitė**: keturi b2b starteriai, bet 21 žaidimas iš
+viso – net pavargę surinksit daugiau nei pusė lygos sveiki.
 
-**6. Sacramento Kings — 918.50.** Nikola Jokic (152.75, tikras #1 overall
-pick) – lygiai tai, ko tikėjotės, šaltas kaip Sibiro žiema, jokių emocijų,
-tik taškai. Ace Bailey, 9-o (devinto, po velnių) rato rizikingas pasirinkimas,
-atsimokėjo su 124.75 – arba turit akį talentams, arba tiesiog pasisekė kaip
-kiaulei dumble. Ir dar – šitie nuplėšė Andre Drummond'ą tiesiai iš po Deivio
-Pelikanai nosies waiver'e, kol anie dar skaičiavo, kaip parašyti paraišką
-(plačiau žemiau, bus skaudu). Kawhi Leonard ir Santi Aldama abu "OUT" –
-vienintelis debesėlis prieš saulėtą savaitę. **Antra savaitė**: Derrick
-White ir Terrence Shannon Jr. abu su back-to-back – stebėkit rotacijos
-minutes, nes nuovargis gali pakišti koją net šaltakraujiškiausiai komandai.
+**6. Sacramento Kings — 918.50.** Jokic (#1 overall, 152.75) – šaltas kaip
+Sibiro žiema, lygiai tai, ko tikėjotės. O dabar pažiūrėkim, kaip jūsų kiti
+trys aukšti pick'ai jus apvylė: Kawhi Leonard (2 ratas, 71.75, "OUT") –
+brangus, traumuotas balastas; Derrick White (3 ratas, 69.0) – neįspūdinga
+grąža už trečią ratą. Ir štai ironija – Norman Powell, jūsų 4-o rato
+pasirinkimas, suvarė 118.0, daugiau nei White ir Kawhi KARTU PAĖMUS. Taigi
+jūsų pigiausias pick'as iš viršaus dirba sunkiau už du brangesnius. Bent GM
+turi akį waiver'e – nuplėšė Andre Drummond'ą tiesiai iš po Deivio Pelikanai
+nosies, kol anie dar rašė paraišką. **Antra savaitė**: White ir Shannon Jr.
+abu su back-to-back – stebėkit rotaciją, nes nuovargis pakiš koją net
+šaltakraujiškiausiems.
 
-**7. CHICAGO BULLS — 912.25.** Tyrese Maxey (177.75, 10-as pick) – solidus,
-be klausimų. Caleb Wilson, 5-o rato, pridėjo netikėtus 124.75 – geras radinys.
-Bet Daniel Gafford baigė savaitę su LYGIAI 0.0 taškų – žmogau, po galais,
-kam tu rosteryje, dekoracija? Tobias Harris "OUT", Jaxson Hayes "day-to-day" –
-GM bent pasiėmė Obi Toppin'ą iš laisvos agentūros, mažas, bet protingas
-judesys, kol kiti snaudė. **Antra savaitė**: 20 žaidimų, be didelių b2b
-bėdų – ramus tvarkaraštis, ramūs nervai, nuobodu kaip trečiadienio vakaras.
+**7. CHICAGO BULLS — 912.25.** Maxey (10-as pick, 177.75) – solidu, be
+klausimų. Kevin Durant (2 ratas, 147.5) – beveik prilygo Maxey, puikus
+antro rato grobis amžinam snaiperiui. Zion Williamson (3 ratas, 92.5) –
+na, tai tiesiog Zion, visada šiek tiek nuvilia, visada šiek tiek traumuotas
+per akį, bet bent žaidė. Dejounte Murray (4 ratas, 114.5) – geras value.
+Daniel Gafford baigė su LYGIAI 0.0 – kam tu rosteryje, dekoracija? Tobias
+Harris "OUT". GM bent pasiėmė Obi Toppin'ą iš FA, mažas, bet protingas
+judesys. **Antra savaitė**: 20 žaidimų, ramus tvarkaraštis, nuobodu kaip
+trečiadienio vakaras.
 
-**8. Milwaukee Bucks — 912.25.** Luka Dončić (150.25, 4-as pick) – kaip ir
-tikėtasi, žvaigždė, nereikia net aiškinti. Bet tikra staigmena šitoj
-istorijoj – Aaron Wiggins, VISAI neparinktas drafte, grynas iš FA, suvarė
-82.0 taškų, kas, po perkūnais, yra absoliuti vagystė be jokio mokesčio.
-Jalen Williams "OUT" – vienintelė dėmė šioj gražioj paveikslely. **Antra
-savaitė**: 22 žaidimai tarp starterių – daugiausiai visoj lygoj kartu su
-Mickunu ir Pacers, bet keturi b2b starteriai reiškia, kad finale gali
-susidurti su nuvargusiais robotais vietoj žmonių.
+**8. Milwaukee Bucks — 912.25.** Luka (4-as pick, 150.25) – žvaigždė,
+nereikia aiškinti. Pascal Siakam (2 ratas, 124.25) – solidu. Jalen Williams
+(3 ratas, 66.0, "OUT") – traumuotas, nusivylimas. O Naz Reid, jūsų 4-o rato
+pasirinkimas, suvarė 119.0 – beveik prilygo Siakam, rinktas trisdešimt
+keturiomis vietomis vėliau, grynas pelnas. Ir dar viršum viso to – Aaron
+Wiggins, VISAI neparinktas drafte, grynas iš FA, suvarė 82.0, kas yra
+absoliuti vagystė be mokesčio. **Antra savaitė**: 22 žaidimai – daugiausiai
+lygoj, bet keturi b2b starteriai reiškia riziką finale.
 
-**9. Oklahoma City Thunder — 904.25.** Anthony Edwards (186.75, 9-as pick) –
-antras geriausias žaidėjas VISOJ lygoj, absoliuti, begėdiška vagystė už
-devintą numerį, turėtumėt uždegti žvakę tam, kas jį praleido. Brandon Miller,
-5-o rato, pridėjo solidžius 122.5. Bet, po velnių, Gui Santos (7.5) ir Aday
-Mara (10.75) – rosterio dugnas tuščias kaip Vinted parduotuvė po Black
-Friday, ten nieko nelikę, tik dulkės ir nusivylimas. Markkanen "day-to-day",
-Nurkic "OUT" – sveikatos skyrius irgi streikuoja. **Antra savaitė**: Edwards
-ir Miller abu su back-to-back – jei abu liks sveiki, grįšit į TOP3, jei ne,
-velniop viską.
+**9. Oklahoma City Thunder — 904.25.** Anthony Edwards (9-as pick, 186.75) –
+antras geriausias žaidėjas VISOJ lygoj, begėdiška vagystė už devintą
+numerį. Jamal Murray (2 ratas, 111.75) – solidu. Lauri Markkanen (3 ratas,
+96.5, "day-to-day") – neblogai, kai sveikas. O Kyrie Irving, jūsų 4-o rato
+pasirinkimas, suvarė vos 84.25 – senstančios kojos pradeda rodytis, broli.
+Gui Santos (7.5) ir Aday Mara (10.75) – rosterio dugnas tuščias kaip Vinted
+parduotuvė po Black Friday. Nurkic "OUT". **Antra savaitė**: Edwards ir
+Miller abu su back-to-back – jei abu sveiki, grįšit TOP3.
 
-**10. Panevezio ROZYNAS — 866.00.** Giannis Antetokounmpo (168.5, 5-as pick)
-solidu, kaip visada, jokių staigmenų. Bet čia prasideda tikra komedija:
-P.J. Washington 10-23 dieną suvarė 46 taškus **SUOLE**. Keturiasdešimt
-šešis. Suole. Koks genijus taip sudėliojo lineupą, ar jūs lošiat aklai užrištom
-akim? Jūsų tikras 6-o rato deimantas Jaden McDaniels (109.5) irgi tyliai
-dirbo šešėlyje, kol jūs žiūrėjot kažkur kitur. Thomas Bryant su 0.0 – praleiskit
-šį eksperimentą kitą kartą, po galais. Jaren Jackson Jr. ir Justin Champagnie
-(beje, irgi jūsų pačių FA radinys) abu "day-to-day". **Antra savaitė**:
-LaMelo Ball ir McDaniels abu su back-to-back – sveikatos ataskaitą sek kaip
-religiją, nes antra tokia klaida su lineup'u ir jus vysis prakeiksmas visą
-sezoną.
+**10. Panevezio ROZYNAS — 866.00.** Giannis (5-as pick, 168.5) – solidu, kaip
+visada. Bet toliau – katastrofa: LaMelo Ball (2 ratas, 88.5) – nusivylimas
+už tokį pick'ą, o Mikal Bridges (3 ratas, VOS 17.5!) – tai jau ne
+nusivylimas, tai nusikaltimas prieš fantasy krepšinį. Laimei, De'Aaron Fox,
+4-o rato pasirinkimas, suvarė 108.0 – daugiau nei LaMelo ir Bridges kartu
+paėmus, kas yra gėdinga jums, bet gerai jums. Ir dar komedijos dalis: P.J.
+Washington 10-23 dieną suvarė 46 taškus **SUOLE**. Keturiasdešimt šešis.
+Suole. Koks genijus taip sudėliojo lineupą? Jaren Jackson Jr. "day-to-day".
+**Antra savaitė**: Ball ir McDaniels abu su back-to-back – sekit sveikatą
+kaip religiją.
 
-**11. Tml Raptors — 841.00.** Cooper Flagg (157.25, 12-as pick) – gražus,
-tikrai gražus rookie debiutas, atsipirko pilnai, sveikinam. Bet likęs
-rosteris jus išdavė žiauriai: Anthony Black ir Kyle Filipowski abu su LYGIAI
-0.0 per VISĄ savaitę – ar jie išvis turėjo žaidimų, ar tiesiog sėdėjo namuose
-žaisdami PlayStation? Net 8-o rato "value" pick'as Aaron Gordon tenešė
-kuklius 56.5 – nieko įspūdingo. VJ Edgecombe "day-to-day". **Antra savaitė**:
-21 žaidimas, vidutiniškas volume – jei Flagg vienas tęs visą naštą, jūs
-greitai sudegsit kaip žvakė, kurią uždegė iš abiejų galų.
+**11. Tml Raptors — 841.00.** Cooper Flagg (12-as pick, 157.25) – gražus
+rookie debiutas, pilnai atsipirko. Austin Reaves (2 ratas, 128.5) – puikus
+radinys, beveik prilygo pačiam Flagg'ui. Onyeka Okongwu (3 ratas, 80.0) –
+vidutiniškai. O Desmond Bane, jūsų 4-o rato pick'as, suvarė VOS 49.5 –
+brutalus nuosmukis, kam jūs jį apskritai startavot. Anthony Black ir Kyle
+Filipowski abu su LYGIAI 0.0 per VISĄ savaitę – ar jie žaidė krepšinį, ar
+PlayStation namuose? VJ Edgecombe "day-to-day". **Antra savaitė**: 21
+žaidimas, vidutiniškas volume – jei Flagg vienas tęs naštą, greitai sudegsit.
 
-**12. Deivio Pelikanai — 820.00.** Anthony Davis (128.75, 14-as pick) –
-padorus, bet ne žvaigždė, kokios tikėjotės už tokį pick'ą. Isaiah Hartenstein
-(7-as ratas) pridėjo kuklius 88.75. O dabar – savaitės facepalm momentas,
-dėl kurio turėtumėt gėdytis viešai: GM bandė pavogti Andre Drummond'ą iš
+**12. Deivio Pelikanai — 820.00.** Donovan Mitchell (14-as pick, 128.75) –
+padorus, bet neva žvaigždė. O čia ironija – Anthony Davis, jūsų 2-o rato
+pasirinkimas, suvarė 145.25, DAUGIAU nei jūsų pačių pirmo rato Mitchell.
+Antras ratas pralenkė pirmą, kaip ir dera šitai savaitei visoj lygoj. Jarrett
+Allen (3 ratas, 96.75) – solidu, Franz Wagner (4 ratas, 80.75) – nusivylimas.
+O dabar savaitės facepalm momentas: GM bandė pavogti Andre Drummond'ą iš
 waiver'o, numetė Luke Kornet, ir tiesiog **PRALAIMĖJO** patį waiver'ą
-Sacramento Kings komandai. FAILED_INVALIDPLAYERSOURCE – sistema tiesiogine
-prasme pasakė "ne šįkart, broli, net nebandyk". Brandon Ingram ir Mark
-Williams abu "OUT" – sunku bus be jų, o dar sunkiau žinant, kad net
-waiver'o mygtuko paspaudimas jums per sunkus iššūkis. **Antra savaitė**:
-Mitchell, Allen ir Watson visi su back-to-back – jei sveikata neleis, po
-velnių, bus ilga ir skausminga savaitė.
+Sacramento Kings komandai. Sistema pasakė "ne šįkart, broli". Brandon
+Ingram "OUT". **Antra savaitė**: Mitchell, Allen ir Watson visi su
+back-to-back – sunki savaitė, jei sveikata neleis.
 
-**13. Siauliu Siauliai — 798.00.** Cade Cunningham (112.25, 8-as pick) – ne
-taip, kaip tikėjotės iš top-10 pick'o, nusivylimas kvepia iš čia. Zach LaVine
-(114.0) buvo "geriausias" komandoje, bet tai ŽEMIAUSIAS "geriausio žaidėjo"
-rezultatas VISOJ lygoj – raudona lemputė šviečia kaip Kalėdų eglutė. Gera
-žinia: Jalen Smith, visai neparinktas drafte, grynas FA pickup, suvarė 89.5
-(ir dar prieš tai spėjo suolo 45 taškų epizodą 10-23 – šitas vaikinas tiesiog
-negali nutilti). Rui Hachimura baigė savaitę MINUSE (-3.75) – kaip, po
-galais, žmogus pasiekia neigiamą rezultatą žaisdamas krepšinį, ar jis
-baudas metė atbulas? Paolo Banchero ir Nic Claxton abu "OUT" – skaudu.
-**Antra savaitė**: 21 žaidimas – neblogas volume, bet jei Cunningham
-pagaliau neatsibus, teks priprasti prie vidurio lentelės gyvenimo.
+**13. Siauliu Siauliai — 798.00.** Cade Cunningham (8-as pick, 112.25) – ne
+taip, kaip tikėjotės iš top-10 pick'o. Paolo Banchero (2 ratas, 79.25,
+"OUT") – traumuotas, nusivylimas dvigubai. Michael Porter Jr. (3 ratas,
+91.75) – padorus. O Kel'el Ware, jūsų 4-o rato pick'as, suvarė 96.5 –
+beveik prilygo pačiam Cunningham'ui, kuriam mokėjot už top-10 vietą. Zach
+LaVine (114.0) buvo "geriausias" komandoje, bet tai ŽEMIAUSIAS "geriausio
+žaidėjo" rezultatas VISOJ lygoj – raudona lemputė. Rui Hachimura baigė
+MINUSE (-3.75) – kaip, po galais, pasiekiamas neigiamas balas žaidžiant
+krepšinį? **Antra savaitė**: 21 žaidimas – neblogas volume, bet Cunningham
+turi pagaliau atsibusti.
 
-**14. Indiana Pacers — 786.00.** Jayson Tatum (116.75, 6-as pick) nuvylė, ir
-tai švelniai pasakyta. Bet jūsų PAČIŲ 6-o rato pick'as Jabari Smith Jr.
-(135.75) jį aplenkė – tai va kaip atrodo, kai antras pasirinkimas pralenkia
-"žvaigždę", apie kurią kalbėjot visą draftą. Keturi (!) žaidėjai traumuoti
-ar "day-to-day" vienu metu (Coby White, Alex Caruso, Isaiah Joe, Scoot
-Henderson) – šitas rosteris dabar primena ne fantasy komandą, o lauko
-ligoninę po mūšio. GM bent sureagavo kaip reikia: numetė jau traumuotą
-Isaiah Joe, pasiėmė Baylor Scheierman'ą – logiška, bet, po velnių, per
-vėlai, žala jau padaryta. **Antra savaitė**: 22 žaidimai – daugiausiai
-lygoj, bet su Tatum, Harden ir Smith visais b2b, nuovargis bus tikras
-iššūkis, o sveikatos skyrius vėl bus jūsų priešas numeris vienas.
+**14. Indiana Pacers — 786.00.** Jayson Tatum (6-as pick, 116.75) nuvylė –
+švelniai pasakyta. James Harden (2 ratas, 76.25) – washed, senas, lėtas,
+nebe tas Harden. Donovan Clingan (3 ratas, 49.25) – rookie sunkumai. O Matas
+Buzelis, jūsų 4-o rato lietuvis (taip, mūsiškis), suvarė 71.75 – daugiau nei
+pats Harden, kuriam mokat kaip antro rato žvaigždei. Keturi (!) žaidėjai
+traumuoti vienu metu (White, Caruso, Joe, Henderson) – rosteris primena
+lauko ligoninę po mūšio. GM bent sureagavo: numetė traumuotą Isaiah Joe,
+pasiėmė Scheierman'ą. **Antra savaitė**: 22 žaidimai – daugiausiai lygoj,
+bet su Tatum, Harden ir Smith visais b2b, nuovargis bus tikras priešas.
 
 **15. Kauno Cavalieriai — 724.25.** Čia pats gražiausias (ir skaudžiausias)
-draft-value kontrastas visoj lygoj: jūsų 1-o rato Scottie Barnes (16-as
-pick) baigė savaitę su kukliais 90.5, o 2-o rato (19-as pick, praktiškai
-tas pats rato galas, skirtumas trys vietos, po velnių) Alperen Sengun
-suvarė 185.25 – TOP3 geriausių žaidėjų VISOJ lygoj. Barnes pralaimėjo savo
-paties drafto kaimynui, kurį rinkot minutę vėliau. Cam Whitmore ir Marcus
-Smart abu su 0.0 – gėda, tiesiog gėda, net komentuoti nesinori. Keegan
-Murray "OUT". **Antra savaitė**: Sengun, Curry, Gobert ir Podziemski visi
-su back-to-back – jei Sengun nuvargs, visa komanda nuvargs kartu su juo,
-nes be jo jūs esat tiesiog Barnes ir tyla.
+draft-value kontrastas visoj lygoj: Scottie Barnes (16-as pick, 1 ratas)
+baigė su kukliais 90.5, o Alperen Sengun, rinktas VOS trimis vietomis
+vėliau (19-as pick, 2 ratas), suvarė 185.25 – TOP3 geriausių žaidėjų VISOJ
+lygoj. Barnes pralaimėjo savo paties drafto kaimynui. Stephen Curry (3
+ratas, 103.25) – ageless, kaip visada stabilus. Rudy Gobert (4 ratas,
+81.75) – solidus value. Cam Whitmore ir Marcus Smart abu su 0.0 – gėda,
+tiesiog gėda. Keegan Murray "OUT". **Antra savaitė**: Sengun, Curry, Gobert
+ir Podziemski visi su back-to-back – jei Sengun nuvargs, visa komanda
+nuvargs kartu su juo.
 
-**16. LAL Silinskas — 706.25.** Štai jūsų visa problema sudėta į vieną
-sakinį: Jalen Brunson, 13-as overall pick, baigė savaitę su 80.0 taškų, o
-geriausias žaidėjas visoje komandoje buvo **9-o rato** Jonathan Kuminga
-(112.0). Pirmo rato žvaigždė, už kurią mokėjot auksu, pralaimėjo paskutinio
-rato vaikinui, kurį draftinot "šiaip, ką nors". AJ Dybantsa ir Steven Adams
-abu "OUT" – skaudu, bet tiesą sakant, jūsų problema ne traumos, o tai, kad
-nė vieno GM judesio per visą savaitę – waiver'as jūsų laukia kaip šuo prie
-durų, o jūs net nepasisveikinot. **Antra savaitė**: jei Brunson neprabus iš
-miego, Kuminga liks vienintelis argumentas, kodėl apskritai verta žiūrėti į
-šitą komandą.
+**16. LAL Silinskas — 706.25.** Štai jūsų problema sudėta į vieną istoriją:
+Jalen Brunson, 13-as overall pick, baigė su 80.0 taškų, o Bam Adebayo (2
+ratas, 98.25) ir Julius Randle (3 ratas, 98.25, lygiai tiek pat) abu jį
+pralenkė. LeBron James, jūsų 4-o rato pasirinkimas, keturiasdešimt metų ir
+suvarė 94.5 – daugiau nei jūsų paties pirmo rato Brunson, kas yra tiesiog
+gėdinga visiems, išskyrus patį LeBron'ą. O geriausias žaidėjas visoje
+komandoje iš viso buvo 9-o rato Jonathan Kuminga (112.0). Pirmo rato
+žvaigždė pralaimėjo paskutinio rato vaikinui. AJ Dybantsa ir Steven Adams
+abu "OUT". Nė vieno GM judesio per savaitę – waiver'as jūsų laukia kaip
+šuo prie durų. **Antra savaitė**: jei Brunson neprabus, Kuminga liks
+vienintelis argumentas žiūrėti į šitą komandą.
 
 **17. Taurages Knicks — 650.00.** Dugnas. Grynas, kietas, akmeninis dugnas.
-Domantas Sabonis (141.75, 11-as pick) bandė gelbėti garbę visiškai vienas,
-kaip kareivis apkasuose be paramos. Andrew Wiggins (6-as ratas) pridėjo
-kuklius 49.25 – nepakako net arbatai pašildyti. O Jock Landale baigė
+Domantas Sabonis (11-as pick, 141.75) bandė gelbėti garbę vienas, kaip
+kareivis apkasuose be paramos. Karl-Anthony Towns (2 ratas, 114.5) – solidu.
+Darius Garland (3 ratas, 77.25) – nusivylimas. Stephon Castle, 4-o rato
+naujokas, suvarė 83.5 – kuklu, bet padoru rookie'ui. O Jock Landale baigė
 savaitę su **-8.75** taškų – tai jau ne tik antirekordas, tai meno kūrinys,
-reikės rėmelio ir vinies sienoje su užrašu "taip nedaryk". Kon Knueppel,
-Oso Ighodaro ir Jalen Suggs visi traumuoti VIENU metu, lyg kažkas juos
-visus prakeikė tą pačią naktį. **Antra savaitė**: tik 19 žaidimų – antras
-mažiausias volume lygoj. Jei waiver'e nieko nepajudinsit, po velnių, čia bus
-ne sezonas, o lėta, skausminga mirtis prieš visų akis.
+reikės rėmelio su užrašu "taip nedaryk". Kon Knueppel, Oso Ighodaro ir
+Jalen Suggs visi traumuoti VIENU metu. **Antra savaitė**: tik 19 žaidimų –
+antras mažiausias volume lygoj. Jei waiver'e nieko nepajudinsit, čia bus
+lėta, skausminga mirtis.
 
 ## Trumpai apie waiver'ą
 
-Savaitės GM MVP – **Minnesota Timberwolves** (trys judesiai, visi į temą,
-žmonės realiai dirba). **Sacramento Kings** apiplėšė **Deivio Pelikanai** dėl
-Andre Drummond tiesiog sekundės dalimi greičiau paspaudę mygtuką – skaudu
-žiūrėti, bet juokinga. Likę 14 GM – arba tylūs kaip kapinės, arba laukia,
-kol kažkas kitas pirmas judės. Pažadinkit save, po velnių, waiver'as
-nelaukia nė vieno.
+Savaitės GM MVP – **Minnesota Timberwolves** (trys judesiai, visi į temą).
+**Sacramento Kings** apiplėšė **Deivio Pelikanai** dėl Andre Drummond
+tiesiog sekundės dalimi greičiau paspaudę mygtuką. Likę 14 GM – tylu kaip
+kapinėse. Pažadinkit save, waiver'as nelaukia nė vieno.
 
 ---
 
