@@ -1,7 +1,7 @@
 ---
 title: "1-oji savaitės apžvalga: draftas jau meluoja kai kam į akis"
 date: 2026-10-27
-draft: true
+draft: false
 summary: "Pirma savaitė baigta – kas jau skraido, kas jau dega gėdoje, ir kam draftas jau šaukia į veidą \"sakiau gi, idiote\"."
 ---
 
