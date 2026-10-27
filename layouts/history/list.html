@@ -1,0 +1,26 @@
+{{ define "main" }}
+{{ $h := hugo.Data.league_history }}
+<section class="hero">
+  <div class="wrap-inner">
+    <h1>{{ .Title }}</h1>
+    <p>Kiekvieno sezono TOP 3 – pagal oficialų ESPN galutinį reitingą.</p>
+  </div>
+</section>
+
+<div class="history-grid">
+  {{ range $h.seasons }}
+  <div class="history-card">
+    <div class="history-season">{{ .label }}</div>
+    <ol class="podium">
+      {{ range .top3 }}
+      <li class="rank-{{ .rank }}">
+        <span class="medal"></span>
+        <span class="podium-team">{{ .team }}</span>
+        <span class="podium-pts">{{ printf "%.0f" .points }}</span>
+      </li>
+      {{ end }}
+    </ol>
+  </div>
+  {{ end }}
+</div>
+{{ end }}

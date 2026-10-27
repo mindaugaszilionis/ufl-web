@@ -20,6 +20,11 @@ title = "United Fantasy League"
   weight = 20
 
 [[menu.main]]
+  name = "Istorija"
+  url = "/history/"
+  weight = 25
+
+[[menu.main]]
   name = "Apie"
   url = "/about/"
   weight = 30

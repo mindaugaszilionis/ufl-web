@@ -283,6 +283,60 @@ table.standings .delta.down { color: var(--delta-bad); }
   margin: 0;
 }
 
+.history-grid {
+  display: grid;
+  gap: 1.1rem;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+}
+
+.history-card {
+  background: var(--surface-1);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.1rem 1.25rem 1.3rem;
+}
+
+.history-season {
+  font-weight: 800;
+  font-size: 1.05rem;
+  font-style: italic;
+  margin-bottom: 0.8rem;
+  color: var(--text-primary);
+}
+
+.podium {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.podium li {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.4rem 0.5rem;
+  border-radius: 6px;
+}
+
+.podium .medal {
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 50%;
+  flex: none;
+  display: inline-flex;
+}
+
+.podium .podium-team { flex: 1; font-weight: 600; font-size: 0.92rem; }
+.podium .podium-pts { font-weight: 700; font-variant-numeric: tabular-nums; font-size: 0.88rem; color: var(--muted); }
+
+.podium .rank-1 { background: rgba(234, 173, 12, 0.12); }
+.podium .rank-1 .medal { background: #e0ad1c; }
+.podium .rank-2 .medal { background: #b7bec7; }
+.podium .rank-3 .medal { background: #c47a3d; }
+
 footer.site-footer {
   background: var(--brand-dark);
   border-top: 3px solid var(--brand);

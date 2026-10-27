@@ -1,0 +1,158 @@
+{
+  "seasons": [
+    {
+      "seasonId": 2026,
+      "label": "2025-26",
+      "leagueName": "UFL A lyga 2025-26",
+      "top3": [
+        {
+          "rank": 1,
+          "team": "Mickunu Stumykla",
+          "points": 17816.25
+        },
+        {
+          "rank": 2,
+          "team": "LA Olimpas",
+          "points": 17680.5
+        },
+        {
+          "rank": 3,
+          "team": "CPU Team 4",
+          "points": 17101.0
+        }
+      ]
+    },
+    {
+      "seasonId": 2025,
+      "label": "2024-25",
+      "leagueName": "UFL A lyga 2024-25",
+      "top3": [
+        {
+          "rank": 1,
+          "team": "Gargzdu Banga",
+          "points": 17915.75
+        },
+        {
+          "rank": 2,
+          "team": "Coleslaw Salads",
+          "points": 17899.75
+        },
+        {
+          "rank": 3,
+          "team": "Nykstukai is Ariogalos",
+          "points": 16613.0
+        }
+      ]
+    },
+    {
+      "seasonId": 2024,
+      "label": "2023-24",
+      "leagueName": "UFL A lyga 2023-24",
+      "top3": [
+        {
+          "rank": 1,
+          "team": "Boston Celtics",
+          "points": 17821.75
+        },
+        {
+          "rank": 2,
+          "team": "Mickunu Stumykla",
+          "points": 17342.75
+        },
+        {
+          "rank": 3,
+          "team": "Coleslaw Salads",
+          "points": 16867.0
+        }
+      ]
+    },
+    {
+      "seasonId": 2023,
+      "label": "2022-23",
+      "leagueName": "UFL 2022-23",
+      "top3": [
+        {
+          "rank": 1,
+          "team": "Viking  Floki",
+          "points": 18100.5
+        },
+        {
+          "rank": 2,
+          "team": "Ariogalos Gramofonas",
+          "points": 17715.0
+        },
+        {
+          "rank": 3,
+          "team": "Mickunai Torpedos",
+          "points": 17505.5
+        }
+      ]
+    },
+    {
+      "seasonId": 2022,
+      "label": "2021-22",
+      "leagueName": "UFL 2021-22",
+      "top3": [
+        {
+          "rank": 1,
+          "team": "Viking  Floki",
+          "points": 18938.0
+        },
+        {
+          "rank": 2,
+          "team": "Plunges Olimpas",
+          "points": 18097.5
+        },
+        {
+          "rank": 3,
+          "team": "Usa Limitless",
+          "points": 18037.5
+        }
+      ]
+    },
+    {
+      "seasonId": 2021,
+      "label": "2020-21",
+      "leagueName": "UFL 2020-21",
+      "top3": [
+        {
+          "rank": 1,
+          "team": "Team Silinskas",
+          "points": 18828.0
+        },
+        {
+          "rank": 2,
+          "team": "Plunges Olimpas",
+          "points": 18823.0
+        },
+        {
+          "rank": 3,
+          "team": "Gargždų Banga",
+          "points": 18771.0
+        }
+      ]
+    },
+    {
+      "seasonId": 2020,
+      "label": "2019-20",
+      "leagueName": "UFL 2019-20 ",
+      "top3": [
+        {
+          "rank": 1,
+          "team": "Mickunai Torpedos",
+          "points": 12823.0
+        },
+        {
+          "rank": 2,
+          "team": "Plunges Olimpas",
+          "points": 12759.5
+        },
+        {
+          "rank": 3,
+          "team": "Team Shakeel",
+          "points": 11770.5
+        }
+      ]
+    }
+  ]
+}
