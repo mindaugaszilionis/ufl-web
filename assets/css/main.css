@@ -1,0 +1,191 @@
+:root {
+  --surface-1: #fcfcfb;
+  --page-plane: #f9f9f7;
+  --text-primary: #0b0b0b;
+  --text-secondary: #52514e;
+  --muted: #898781;
+  --gridline: #e1e0d9;
+  --baseline: #c3c2b7;
+  --border: rgba(11, 11, 11, 0.10);
+  --delta-good: #006300;
+  --delta-bad: #d03b3b;
+  --accent: #2a78d6;
+  --card-bg: #ffffff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --surface-1: #1a1a19;
+    --page-plane: #0d0d0d;
+    --text-primary: #ffffff;
+    --text-secondary: #c3c2b7;
+    --muted: #898781;
+    --gridline: #2c2c2a;
+    --baseline: #383835;
+    --border: rgba(255, 255, 255, 0.10);
+    --delta-good: #0ca30c;
+    --delta-bad: #e66767;
+    --accent: #3987e5;
+    --card-bg: #1a1a19;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  background: var(--page-plane);
+  color: var(--text-primary);
+  line-height: 1.55;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.wrap {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+header.site-header {
+  background: var(--surface-1);
+  border-bottom: 1px solid var(--border);
+}
+
+.site-header .bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 1.25rem;
+  max-width: 960px;
+  margin: 0 auto;
+  gap: 1rem;
+}
+
+.brand {
+  font-weight: 800;
+  font-size: 1.15rem;
+  letter-spacing: -0.01em;
+  color: var(--text-primary);
+}
+.brand:hover { text-decoration: none; }
+
+nav.main-nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1.25rem;
+  margin: 0;
+  padding: 0;
+}
+
+nav.main-nav a {
+  color: var(--text-secondary);
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+nav.main-nav a:hover { color: var(--accent); text-decoration: none; }
+
+main { padding: 2rem 0 4rem; }
+
+.hero {
+  padding: 2.5rem 0 1.5rem;
+  border-bottom: 1px solid var(--gridline);
+  margin-bottom: 2rem;
+}
+
+.hero h1 {
+  font-size: 1.9rem;
+  margin: 0 0 0.5rem;
+  letter-spacing: -0.02em;
+}
+
+.hero p { color: var(--text-secondary); margin: 0; max-width: 60ch; }
+
+.card-grid {
+  display: grid;
+  gap: 1.25rem;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+}
+
+.card {
+  background: var(--surface-1);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.1rem 1.25rem;
+}
+
+.card .date {
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.card h3 { margin: 0.35rem 0 0.4rem; font-size: 1.05rem; }
+.card h3 a { color: var(--text-primary); }
+.card p { color: var(--text-secondary); margin: 0; font-size: 0.92rem; }
+
+article.post .post-header { margin-bottom: 1.5rem; }
+article.post h1 { font-size: 1.7rem; margin: 0 0 0.3rem; letter-spacing: -0.01em; }
+article.post .date { color: var(--muted); font-size: 0.85rem; font-variant-numeric: tabular-nums; }
+article.post img { max-width: 100%; border-radius: 8px; margin: 1rem 0; }
+article.post .content p { margin: 0 0 1rem; }
+article.post .content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.92rem;
+}
+article.post .content table th,
+article.post .content table td {
+  border-bottom: 1px solid var(--gridline);
+  padding: 0.5rem 0.6rem;
+  text-align: left;
+  font-variant-numeric: tabular-nums;
+}
+
+table.standings {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+table.standings th {
+  text-align: left;
+  color: var(--muted);
+  font-weight: 600;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  border-bottom: 1px solid var(--baseline);
+  padding: 0.6rem 0.6rem;
+}
+
+table.standings td {
+  padding: 0.6rem 0.6rem;
+  border-bottom: 1px solid var(--gridline);
+  font-variant-numeric: tabular-nums;
+}
+
+table.standings tr:nth-child(even) td { background: rgba(137, 135, 129, 0.06); }
+
+table.standings .rank { color: var(--muted); width: 2.5em; }
+table.standings .team { font-weight: 600; }
+table.standings .pts { text-align: right; font-weight: 700; }
+table.standings .delta { text-align: right; font-size: 0.85rem; }
+table.standings .delta.up { color: var(--delta-good); }
+table.standings .delta.down { color: var(--delta-bad); }
+
+.standings-meta {
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin-bottom: 1rem;
+}
+
+footer.site-footer {
+  border-top: 1px solid var(--gridline);
+  padding: 2rem 0;
+  color: var(--muted);
+  font-size: 0.85rem;
+}

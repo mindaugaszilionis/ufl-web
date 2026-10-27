@@ -1,0 +1,15 @@
+{{ define "main" }}
+<section class="hero">
+  <h1>{{ .Title }}</h1>
+  {{ if .Content }}<div>{{ .Content }}</div>{{ end }}
+</section>
+<div class="card-grid">
+  {{ range .Pages.ByDate.Reverse }}
+  <div class="card">
+    <div class="date">{{ .Date.Format "2006-01-02" }}</div>
+    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    <p>{{ .Summary | plainify | truncate 140 }}</p>
+  </div>
+  {{ end }}
+</div>
+{{ end }}

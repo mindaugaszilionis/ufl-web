@@ -1,0 +1,17 @@
+{{ define "main" }}
+<section class="hero">
+  <h1>{{ .Site.Title }}</h1>
+  <p>{{ .Site.Params.description }}</p>
+</section>
+
+<h2 style="font-size:1.1rem;color:var(--text-secondary);margin-bottom:1rem;">Naujausios naujienos</h2>
+<div class="card-grid">
+  {{ range first 6 (where .Site.RegularPages "Type" "posts") }}
+  <div class="card">
+    <div class="date">{{ .Date.Format "2006-01-02" }}</div>
+    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    {{ if .Params.summary }}<p>{{ .Params.summary }}</p>{{ else }}<p>{{ .Summary | plainify | truncate 120 }}</p>{{ end }}
+  </div>
+  {{ end }}
+</div>
+{{ end }}

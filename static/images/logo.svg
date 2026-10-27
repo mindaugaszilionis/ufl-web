@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56" width="32" height="32" role="img" aria-label="UFL logo">
+  <defs>
+    <style>
+      .badge { fill: #2a78d6; }
+      .seam { fill: none; stroke: #ffffff; stroke-width: 2; opacity: 0.6; }
+    </style>
+  </defs>
+  <rect class="badge" x="0" y="0" width="56" height="56" rx="14"/>
+  <circle class="seam" cx="28" cy="28" r="18"/>
+  <path class="seam" d="M10 28 H46"/>
+  <path class="seam" d="M28 10 V46"/>
+  <path class="seam" d="M14 14 Q28 28 14 42"/>
+  <path class="seam" d="M42 14 Q28 28 42 42"/>
+</svg>

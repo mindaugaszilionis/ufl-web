@@ -1,0 +1,27 @@
+{{ define "main" }}
+{{ $d := hugo.Data.standings_latest }}
+<section class="hero">
+  <h1>{{ .Title }}</h1>
+  <p class="standings-meta">Bendras sezono taškų skaičius (fpts), paskutinė atnaujinta diena: {{ $d.asOf }}. Atsisiųsti visą istoriją: <a href="{{ "data/standings.csv" | relURL }}">standings.csv</a></p>
+</section>
+<table class="standings">
+  <thead>
+    <tr>
+      <th class="rank">#</th>
+      <th class="team">Komanda</th>
+      <th class="pts">FPTS</th>
+      <th class="delta">Δ vakar</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range $d.teams }}
+    <tr>
+      <td class="rank">{{ .rank }}</td>
+      <td class="team">{{ .team }}</td>
+      <td class="pts">{{ printf "%.2f" .points }}</td>
+      <td class="delta {{ if ge .delta 0.0 }}up{{ else }}down{{ end }}">{{ if ge .delta 0.0 }}+{{ end }}{{ printf "%.2f" .delta }}</td>
+    </tr>
+    {{ end }}
+  </tbody>
+</table>
+{{ end }}

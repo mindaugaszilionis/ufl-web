@@ -1,0 +1,26 @@
+baseURL = "https://ufl.lt/"
+locale = "lt-LT"
+title = "United Fantasy League"
+theme = ""
+
+[params]
+  description = "Lietuvių bendruomenė, aktyviai žaidžianti ESPN NBA Fantasy krepšinio lygą."
+  tagline = "Lietuvos NBA fantasy bendruomenė"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[[menu.main]]
+  name = "Naujienos"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  name = "Lentelė"
+  url = "/standings/"
+  weight = 20
+
+[[menu.main]]
+  name = "Apie"
+  url = "/about/"
+  weight = 30
