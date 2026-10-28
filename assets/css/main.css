@@ -335,6 +335,15 @@ table.standings .delta.down { color: var(--delta-bad); }
   transition: width 0.6s ease;
 }
 
+.poll-embed {
+  margin-top: 1.25rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+  background: #fff;
+}
+.poll-embed iframe { display: block; border: 0; }
+
 .history-grid {
   display: grid;
   gap: 1.1rem;

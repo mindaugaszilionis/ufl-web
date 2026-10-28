@@ -1,0 +1,17 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="wrap-inner">
+    <h1>{{ .Title }}</h1>
+    <p>Balsuok ir pažiūrėk, ką galvoja likusi lyga.</p>
+  </div>
+</section>
+<div class="card-grid">
+  {{ range .Pages.ByDate.Reverse }}
+  <div class="card">
+    <div class="date">{{ .Date.Format "2006-01-02" }}</div>
+    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    <p>{{ .Params.summary }}</p>
+  </div>
+  {{ end }}
+</div>
+{{ end }}

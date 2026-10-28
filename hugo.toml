@@ -25,6 +25,11 @@ title = "United Fantasy League"
   weight = 25
 
 [[menu.main]]
+  name = "Apklausos"
+  url = "/apklausos/"
+  weight = 27
+
+[[menu.main]]
   name = "Apie"
   url = "/about/"
   weight = 30

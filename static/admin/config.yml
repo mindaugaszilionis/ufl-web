@@ -21,6 +21,19 @@ collections:
       - { label: "Pagrindinė nuotrauka", name: "image", widget: "image", required: false }
       - { label: "Turinys", name: "body", widget: "markdown" }
 
+  - name: "apklausos"
+    label: "Apklausos"
+    folder: "content/apklausos"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Pavadinimas", name: "title", widget: "string" }
+      - { label: "Data", name: "date", widget: "datetime" }
+      - { label: "Juodraštis", name: "draft", widget: "boolean", default: true }
+      - { label: "Trumpas aprašymas", name: "summary", widget: "string", required: false }
+      - { label: "Google Form embed URL", name: "embed_url", widget: "string" }
+      - { label: "Turinys", name: "body", widget: "markdown" }
+
   - name: "pages"
     label: "Puslapiai"
     files:
