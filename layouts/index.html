@@ -7,6 +7,8 @@
   </div>
 </section>
 
+{{ partial "season-widgets.html" . }}
+
 <h2 class="section-title">Naujausios naujienos</h2>
 <div class="card-grid">
   {{ range first 6 (where .Site.RegularPages "Type" "posts") }}

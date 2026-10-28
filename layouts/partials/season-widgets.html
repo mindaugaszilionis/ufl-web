@@ -1,0 +1,18 @@
+<section class="season-widgets">
+  <div class="widget-tile">
+    <div class="widget-value" id="widget-season-end">—</div>
+    <div class="widget-label">dienų iki sezono pabaigos</div>
+  </div>
+  <div class="widget-tile widget-tile--wide">
+    <div class="widget-value" id="widget-season-pct">—</div>
+    <div class="widget-label">sezono sužaista</div>
+    <div class="widget-bar"><div class="widget-bar-fill" id="widget-season-bar"></div></div>
+  </div>
+  <div class="widget-tile">
+    <div class="widget-value" id="widget-trade-deadline">—</div>
+    <div class="widget-label">dienų iki mainų lango pabaigos</div>
+  </div>
+</section>
+{{ with resources.Get "js/season-widgets.js" }}
+<script src="{{ .RelPermalink }}"></script>
+{{ end }}
