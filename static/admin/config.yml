@@ -32,6 +32,7 @@ collections:
       - { label: "Juodraštis", name: "draft", widget: "boolean", default: true }
       - { label: "Trumpas aprašymas", name: "summary", widget: "string", required: false }
       - { label: "Google Form embed URL", name: "embed_url", widget: "string" }
+      - { label: "Rezultatų (viewanalytics) URL", name: "results_url", widget: "string", required: false }
       - { label: "Turinys", name: "body", widget: "markdown" }
 
   - name: "pages"

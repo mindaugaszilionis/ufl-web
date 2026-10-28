@@ -4,7 +4,10 @@
       <img src="{{ "images/logo.svg" | relURL }}" alt="" width="28" height="28" style="vertical-align:middle;margin-right:0.5rem;border-radius:6px;">
       UFL
     </a>
-    <nav class="main-nav">
+    <button class="nav-toggle" id="nav-toggle" aria-label="Meniu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="main-nav" id="main-nav">
       <ul>
         {{ range .Site.Menus.main }}
         <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
@@ -13,3 +16,6 @@
     </nav>
   </div>
 </header>
+{{ with resources.Get "js/nav-toggle.js" }}
+<script src="{{ .RelPermalink }}"></script>
+{{ end }}
