@@ -62,6 +62,7 @@ header.site-header {
 }
 
 .site-header .bar {
+  position: relative;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -141,6 +142,7 @@ nav.main-nav a:hover {
     top: 100%;
     left: 0;
     right: 0;
+    z-index: 50;
     background: var(--brand-dark);
     border-bottom: 3px solid var(--brand);
     max-height: 0;
@@ -161,8 +163,6 @@ nav.main-nav a:hover {
     padding: 0.85rem 0;
     border-bottom: none;
   }
-
-  .site-header .bar { position: relative; }
 }
 
 main { padding: 0 0 4rem; }
