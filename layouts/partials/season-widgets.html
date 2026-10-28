@@ -13,6 +13,6 @@
     <div class="widget-label">dienų iki mainų lango pabaigos</div>
   </div>
 </section>
-{{ with resources.Get "js/season-widgets.js" }}
-<script src="{{ .RelPermalink }}"></script>
+{{ with resources.Get "js/season-widgets.js" | minify | fingerprint }}
+<script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}"></script>
 {{ end }}

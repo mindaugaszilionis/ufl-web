@@ -16,6 +16,6 @@
     </nav>
   </div>
 </header>
-{{ with resources.Get "js/nav-toggle.js" }}
-<script src="{{ .RelPermalink }}"></script>
+{{ with resources.Get "js/nav-toggle.js" | minify | fingerprint }}
+<script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}"></script>
 {{ end }}
