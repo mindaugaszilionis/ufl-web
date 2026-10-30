@@ -1,5 +1,5 @@
 ---
-title: "Lygos A pozicijų skenavimas: kam ko trūksta ir pas ką eiti"
+title: "UFL lygos pozicijų skenavimas: kam ko trūksta ir pas ką eiti"
 date: 2026-10-30
 draft: false
 summary: "Kiekviena pozicija, kiekviena komanda – kas tikrai gali žaisti dabar, kas tik upside'as, ir kam verta skambinti dėl mainų."
