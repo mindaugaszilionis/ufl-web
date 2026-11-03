@@ -5,7 +5,7 @@ draft: false
 summary: "Kauno Cavalieriai šoktelėjo penkiomis vietomis, Miami nuskendo keturiomis, o Deivio Pelikanai turėjo prasčiausią savaitę visoj lygoj. Plius – kas iš NBA žaidė kaip dievas, o kas kaip šūdas."
 ---
 
-Antra savaitė praėjo, šūdeliai, ir ji vienareikšmiškai įrodė vieną dalyką: viena gera savaitė nieko nereiškia, o viena bloga savaitė gali nugramzdinti tave giliau, nei manai. Kai kurie iš jūsų šoktelėjo per lentelę kaip ant trampolino, kai kurie nugrimzdo kaip akmuo į Kuršių marias. O du iš jūsų... na, jūs tiesiog gulit dugne jau antrą savaitę iš eilės ir net nebebandot plaukti į viršų. Pažiūrėkim, kas čia įvyko.
+Antra savaitė praėjo, fantaziorai, ir ji vienareikšmiškai įrodė vieną dalyką: viena gera savaitė nieko nereiškia, o viena bloga savaitė gali nugramzdinti tave giliau, nei manai. Kai kurie iš jūsų šoktelėjo per lentelę kaip ant trampolino, kai kurie nugrimzdo kaip akmuo į Kuršių marias. O du iš jūsų... na, jūs tiesiog gulit dugne jau antrą savaitę iš eilės ir net nebebandot plaukti į viršų. Pažiūrėkim, kas čia įvyko.
 
 ### Savaitės rezultatai ir judėjimas lentelėje
 
