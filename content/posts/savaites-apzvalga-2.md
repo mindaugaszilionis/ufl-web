@@ -1,7 +1,7 @@
 ---
 title: "2-oji savaitės apžvalga: lentelė pasimaišė, bet dugnas liko tas pats dugnas"
 date: 2026-11-03
-draft: true
+draft: false
 summary: "Kauno Cavalieriai šoktelėjo penkiomis vietomis, Miami nuskendo keturiomis, o Deivio Pelikanai turėjo prasčiausią savaitę visoj lygoj. Plius – kas iš NBA žaidė kaip dievas, o kas kaip šūdas."
 ---
 
