@@ -1,6 +1,9 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: mindaugaszilionis/ufl-web
   branch: main
+  base_url: https://ufl-cms-oauth.fantasy-ufl.workers.dev
+  auth_endpoint: auth
 
 publish_mode: editorial_workflow
 
