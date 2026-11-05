@@ -1,7 +1,7 @@
 ---
 title: "Tarpsezonio taisyklių pasikeitimas: kam lyga tiesiog padovanojo taškų"
 date: 2026-11-05
-draft: true
+draft: false
 summary: "FGM, FTM, STL/BLK, TO, o dabar dar ir Team Win – visos septynios kategorijos pasikeitė į gerąją pusę žaidėjams. Skaičiuojame, kas iš TOP 100 uždirbo daugiausiai, kuriai pozicijai tai buvo auksas, ir kuri UFL komanda šiuo metu tyliai valgo papildomus taškus."
 ---
 
