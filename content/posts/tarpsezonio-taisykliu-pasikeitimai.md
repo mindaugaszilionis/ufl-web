@@ -138,6 +138,23 @@ Pastaba dėl Edwardso: jis sužaidė tik 4 mačus (trauma), tad imtis maža – 
 
 Skirtumas tarp pozicijų nėra milžiniškas, bet kryptis aiški: įžaidėjai (PG) laimi daugiausiai, nes jie ir meta daugiausiai iš arti ribos, ir praranda daugiausiai kamuolių (TO bauda sumažinta), ir sėdi ant daugiausiai pergalių, nes būtent jie valdo žaidimą. Centrai liko apačioje sąraše – kiek keista, nes STL/BLK bonusas turėtų juos kelti, bet jie praranda mažiau kamuolių ir meta mažiau bandymų nei žvaigždės gynėjai, tad bendra nauda mažesnė. Trumpai: taisyklės atsilygino *valdymui*, ne tik gynybai. Bet procentais vaizdas apsiverčia: įžaidėjai augo daugiausiai absoliučiais taškais, nes jų bazinis vidurkis jau buvo aukštas, o santykinai labiausiai paaugo SG ir SF (+45–46%) – jiems pati mažiausia bazė reiškia, kad tie patys papildomi taškai sudaro didesnę procentinę dalį. Centrai liko paskutiniai abiem matavimais.
 
+### TOP 10 pagal procentinį pokytį (ne absoliutų)
+
+| # | Žaidėjas | Pozicija | UFL komanda | Senas vid. | Naujas vid. | Skirtumas | Pokytis % |
+|---|---|---|---|---|---|---|---|
+| 1 | Brandon Miller | SF | Oklahoma City Thunder | 16.42 | 27.70 | +11.25/mač. | **+68.7%** |
+| 2 | LaMelo Ball | PG | Panevezio ROZYNAS | 15.44 | 25.30 | +9.86/mač. | **+63.9%** |
+| 3 | Franz Wagner | SF | Deivio Pelikanai | 16.93 | 27.70 | +10.75/mač. | **+63.6%** |
+| 4 | Darius Acuff Jr. | PG | Coleslaw Salads | 18.84 | 30.80 | +11.91/mač. | **+63.5%** |
+| 5 | Austin Reaves | SG | Tml Raptors | 19.69 | 31.10 | +11.36/mač. | **+57.9%** |
+| 6 | Julius Randle | PF | LAL Silinskas | 18.06 | 28.30 | +10.25/mač. | **+56.7%** |
+| 7 | Scottie Barnes | SF | Kauno Cavalieriai | 24.09 | 37.30 | +13.22/mač. | **+54.8%** |
+| 8 | Kyshawn George | SG | Coleslaw Salads | 16.34 | 25.30 | +9.00/mač. | **+54.8%** |
+| 9 | Keyonte George | PG | Milwaukee Bucks | 18.84 | 29.10 | +10.22/mač. | **+54.5%** |
+| 10 | Stephon Castle | PG | Taurages Knicks | 16.38 | 25.10 | +8.75/mač. | **+53.2%** |
+
+Visiškai kitas sąrašas nei absoliutus TOP 10 – nė vienas žvaigždžių vardas nesikartoja. Čia laimi antro ešelono žaidėjai su žemu baziniu vidurkiu (15–24 fpts): Brandon Miller beveik padvigubėjo (+68,7%), o pusė šio dešimtuko – antraeiliai gynėjai/sparnai, kuriems kiekvienas papildomas metimas ar pergalė sveria daug daugiau procentiškai, nei žvaigždei, kuri ir taip jau rinko 40–50 taškų per mačą.
+
 ### Kuri UFL komanda realiai praturtėjo
 
 Čia suskaičiuota, kiek viso šį sezoną papildomų taškų (iš viso, ne per mačą) savo TOP 100 žaidėjams „uždirbo" kiekviena UFL komanda vien dėl naujos formulės:
