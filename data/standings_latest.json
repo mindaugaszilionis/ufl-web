@@ -1,106 +1,106 @@
 {
-  "asOf": "2026-11-06",
+  "asOf": "2026-11-07",
   "teams": [
     {
       "team": "Mickunu Stumykla",
-      "points": 2719.0,
-      "delta": 189.5,
+      "points": 2839.0,
+      "delta": 120.0,
       "rank": 1
     },
     {
       "team": "Coleslaw Salads",
-      "points": 2426.5,
-      "delta": 228.0,
+      "points": 2597.5,
+      "delta": 171.0,
       "rank": 2
     },
     {
       "team": "Milwaukee Bucks",
-      "points": 2341.25,
-      "delta": 162.5,
+      "points": 2466.0,
+      "delta": 124.75,
       "rank": 3
     },
     {
       "team": "Panevezio 76ers",
-      "points": 2322.0,
-      "delta": 160.5,
+      "points": 2402.25,
+      "delta": 80.25,
       "rank": 4
     },
     {
       "team": "Miami Olimpas",
-      "points": 2230.75,
-      "delta": 142.0,
+      "points": 2334.5,
+      "delta": 103.75,
       "rank": 5
     },
     {
       "team": "Sacramento Kings",
-      "points": 2173.0,
-      "delta": 138.0,
+      "points": 2329.5,
+      "delta": 156.5,
       "rank": 6
     },
     {
       "team": "CHICAGO BULLS",
-      "points": 2157.0,
-      "delta": 147.75,
+      "points": 2251.0,
+      "delta": 94.0,
       "rank": 7
     },
     {
       "team": "Kauno Cavalieriai",
-      "points": 2066.25,
-      "delta": 102.75,
+      "points": 2227.75,
+      "delta": 161.5,
       "rank": 8
     },
     {
-      "team": "Tml Raptors",
-      "points": 2051.0,
-      "delta": 222.5,
+      "team": "Minnesota Timberwolves",
+      "points": 2173.75,
+      "delta": 168.0,
       "rank": 9
     },
     {
-      "team": "Panevezio ROZYNAS",
-      "points": 2030.0,
-      "delta": 156.5,
+      "team": "Oklahoma City Thunder",
+      "points": 2150.0,
+      "delta": 145.0,
       "rank": 10
     },
     {
-      "team": "Indiana Pacers",
-      "points": 2030.0,
-      "delta": 167.25,
+      "team": "Tml Raptors",
+      "points": 2144.5,
+      "delta": 93.5,
       "rank": 11
     },
     {
-      "team": "Minnesota Timberwolves",
-      "points": 2005.75,
-      "delta": 133.5,
+      "team": "Indiana Pacers",
+      "points": 2134.75,
+      "delta": 104.75,
       "rank": 12
     },
     {
-      "team": "Oklahoma City Thunder",
-      "points": 2005.0,
-      "delta": 117.5,
+      "team": "Panevezio ROZYNAS",
+      "points": 2091.0,
+      "delta": 61.0,
       "rank": 13
     },
     {
       "team": "Deivio Pelikanai",
-      "points": 1868.25,
-      "delta": 99.25,
+      "points": 2033.0,
+      "delta": 164.75,
       "rank": 14
     },
     {
       "team": "Siauliu Siauliai",
-      "points": 1847.0,
-      "delta": 54.75,
+      "points": 1994.75,
+      "delta": 147.75,
       "rank": 15
     },
     {
       "team": "LAL Silinskas",
-      "points": 1808.25,
-      "delta": 107.5,
+      "points": 1908.5,
+      "delta": 100.25,
       "rank": 16
     },
     {
       "team": "Taurages Knicks",
-      "points": 1751.0,
-      "delta": 136.25,
+      "points": 1855.25,
+      "delta": 104.25,
       "rank": 17
     }
   ]
