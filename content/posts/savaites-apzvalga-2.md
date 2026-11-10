@@ -55,14 +55,14 @@ Trumpiau – **Justai** (Coleslaw Salads), **Deividai** (Sacramento) ir **Andria
 
 ### Be judesio – stagnacija abiem kryptim
 
-Viršuje **Mindaugas** (taip, aš pats) ir **Aurimas** laikosi 1-oje ir 2-oje vietoje jau antrą savaitę be pokyčių – patogu, nuobodu, bet veikia. **Rytis** (OKC) irgi įstrigo devintoje – nei į priekį, nei atgal, tiesiog egzistuoja lentelės viduryje kaip baldas.
+Viršuje Mickunu Stumykla ir **Aurimas** laikosi 1-oje ir 2-oje vietoje jau antrą savaitę be pokyčių – patogu, nuobodu, bet veikia. **Rytis** (OKC) irgi įstrigo devintoje – nei į priekį, nei atgal, tiesiog egzistuoja lentelės viduryje kaip baldas.
 
 O apačioje – **Edvinas** (LAL Silinskas, 16 vieta) ir **Renardas** (Taurages Knicks, 17 vieta, dugnas) NET NEPAJUDĖJO. Edvinui čia nėra kuo pasiteisinti – visas rosteris žaidė sveikas, tiesiog nepakankamai gerai. Renardui bent jau yra pateisinimas: Kon Knueppel visą savaitę sėdėjo OUT. Bet dugnas yra dugnas – nesvarbu, ar nugrimzti dėl traumų, ar dėl formos, rezultatas lentelėje tas pats.
 
 ### Savaitės MVP'ai (tikri NBA žaidėjai)
 
 1. **Luka Dončić** – 282.75 taškų, 70.69 vidurkis per keturias rungtynes. Ne žaidimas, o egzekucija. Pasiėmė Andrei Milwaukee komandą ant savo pečių ir tiesiog nunešė keturiomis vietomis aukštyn vienas pats.
-2. **Victor Wembanyama** – 262.50 taškų, 65.62 vidurkis. Mano paties (Mindaugo) centras, ir taip, aš džiaugiuosi be gėdos.
+2. **Victor Wembanyama** – 262.50 taškų, 65.62 vidurkis. Mickunu Stumykla centras, kuris tiesiog nesustoja.
 3. **Giannis Antetokounmpo** – 179.50 taškų, 59.83 vidurkis. Būtų MVP bet kurioj kitoj savaitėj, bet tiesiog pateko į tą pačią savaitę kaip Luka ir Wemby. Nesėkmė.
 4. **Stephen Curry** – 176.50 taškų, 58.83 vidurkis trijose rungtynėse – priminimas, kad amžius tai tik skaičius, kai esi Chefas.
 
