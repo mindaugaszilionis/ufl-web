@@ -1,106 +1,106 @@
 {
-  "asOf": "2026-11-25",
+  "asOf": "2026-11-26",
   "teams": [
     {
       "team": "Mickunu Stumykla",
       "points": 5372.25,
-      "delta": 197.25,
+      "delta": 0.0,
       "rank": 1
     },
     {
       "team": "Coleslaw Salads",
       "points": 5215.25,
-      "delta": 192.5,
+      "delta": 0.0,
       "rank": 2
     },
     {
       "team": "Panevezio 76ers",
       "points": 5038.5,
-      "delta": 149.0,
+      "delta": 0.0,
       "rank": 3
     },
     {
       "team": "Deivio Pelikanai",
       "points": 4840.0,
-      "delta": 176.5,
+      "delta": 0.0,
       "rank": 4
     },
     {
       "team": "Kauno Cavalieriai",
       "points": 4786.25,
-      "delta": 203.25,
+      "delta": 0.0,
       "rank": 5
     },
     {
       "team": "Milwaukee Bucks",
       "points": 4675.25,
-      "delta": 95.25,
+      "delta": 0.0,
       "rank": 6
     },
     {
       "team": "Sacramento Kings",
       "points": 4650.75,
-      "delta": 122.75,
+      "delta": 0.0,
       "rank": 7
     },
     {
       "team": "Oklahoma City Thunder",
       "points": 4565.75,
-      "delta": 146.75,
+      "delta": 0.0,
       "rank": 8
     },
     {
       "team": "Tml Raptors",
       "points": 4527.75,
-      "delta": 88.5,
+      "delta": 0.0,
       "rank": 9
     },
     {
       "team": "Indiana Pacers",
       "points": 4401.0,
-      "delta": 151.75,
+      "delta": 0.0,
       "rank": 10
     },
     {
       "team": "Panevezio ROZYNAS",
       "points": 4386.5,
-      "delta": 186.25,
+      "delta": 0.0,
       "rank": 11
     },
     {
       "team": "Miami Olimpas",
       "points": 4364.25,
-      "delta": 129.0,
+      "delta": 0.0,
       "rank": 12
     },
     {
       "team": "Minnesota Timberwolves",
       "points": 4164.25,
-      "delta": 139.75,
+      "delta": 0.0,
       "rank": 13
     },
     {
       "team": "Taurages Knicks",
       "points": 4155.0,
-      "delta": 170.0,
+      "delta": 0.0,
       "rank": 14
     },
     {
       "team": "LAL Silinskas",
       "points": 4111.75,
-      "delta": 174.5,
+      "delta": 0.0,
       "rank": 15
     },
     {
       "team": "CHICAGO BULLS",
       "points": 4022.75,
-      "delta": 117.5,
+      "delta": 0.0,
       "rank": 16
     },
     {
       "team": "Siauliu Siauliai",
       "points": 3929.25,
-      "delta": 121.5,
+      "delta": 0.0,
       "rank": 17
     }
   ]
